@@ -1,0 +1,11 @@
+* {
+  margin: 0px;
+  box-sizing: border-box;
+}
+.map_wrap {
+  /* width: 300px; */
+  display: flex;
+  flex-direction: column;
+  /* height: 330px; */
+  overflow: hidden;
+}
